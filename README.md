@@ -26,7 +26,8 @@ Development tool set
 | [Octotree](https://www.octotree.io/)                                         | 6.1.8/6.1.8/6.1.5                    | GitHub code tree             |
 | [Postman](https://www.postman.com/downloads/)                                | 5.5.5                                | 网络API测试工具              |
 | [开发工具箱](https://www.box3.cn/)                                           | 2.3.0.5                              | 软件开发小工具合集           |
-| [屏幕调整助手](ajgidahckhliegaonfgbialbcpcljach)                             | 4.7                                  | 更改屏幕的大小               |
+| 屏幕调整助手                                                                 | 4.7                                  | 更改屏幕的大小               |
+| 书签侧边栏                                                                   | 1.18.3 rev1                          | 管理所有书签的侧边栏         |
 
 
 
