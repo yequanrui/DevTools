@@ -3,13 +3,13 @@ Development tool set
 
 ## Microsoft Store
 
-| Name                                                                      | Version         | Description  |
-| :------------------------------------------------------------------------ | :-------------- | :----------- |
-| [Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701)        | 2020.921.2317.0 | 命令行工具   |
-| [QuickLook](https://www.microsoft.com/store/productId/9NV4BS3L1H4S)       | 3.6.10.0        | 快速预览工具 |
-| [Snipaste](https://www.microsoft.com/store/productId/9P1WXPKB68KX)        | 2.5.40.0        | 截图贴图工具 |
-| [ScreenToGif](https://www.microsoft.com/store/productId/9N3SQK8PDS8G)     | 2.27.3.0        | 动图制作工具 |
-| [Microsoft To Do](https://www.microsoft.com/store/productId/9NBLGGH5R558) | 2.29.32883.0    | 微软待办工具 |
+| Name                                                                      | Version      | Description  |
+| :------------------------------------------------------------------------ | :----------- | :----------- |
+| [Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701)        | 1.4.3141.0   | 命令行工具   |
+| [QuickLook](https://www.microsoft.com/store/productId/9NV4BS3L1H4S)       | 3.6.10.0     | 快速预览工具 |
+| [Snipaste](https://www.microsoft.com/store/productId/9P1WXPKB68KX)        | 2.5.40.0     | 截图贴图工具 |
+| [ScreenToGif](https://www.microsoft.com/store/productId/9N3SQK8PDS8G)     | 2.27.3.0     | 动图制作工具 |
+| [Microsoft To Do](https://www.microsoft.com/store/productId/9NBLGGH5R558) | 2.30.33031.0 | 微软待办工具 |
 
 
 
