@@ -16,16 +16,18 @@ Development tool set
 
 ## Browser Extension
 
-| Name                                                                         | Version     | Description        |
-| :--------------------------------------------------------------------------- | :---------- | :----------------- |
-| [AdGuard](https://adguard.com/zh_cn/adguard-browser-extension/overview.html) | 3.5.20      | 广告拦截器         |
-| [crxMouse](https://crxmouse.com/zh-hans/)                                    | 4.4.4       | 鼠标手势           |
-| [FeHelper](https://www.baidufe.com/fehelper)                                 | 2020.5.2810 | 前端助手           |
-| [Ghelper](http://googlehelper.net)                                           | 2.2.1       | 谷歌上网助手       |
-| [Octotree](https://www.octotree.io/)                                         | 6.1.8       | GitHub code tree   |
-| [Postman](https://www.postman.com/downloads/)                                | 5.5.5       | 网络API测试工具    |
-| [开发工具箱](https://www.box3.cn/)                                           | 2.3.0.5     | 软件开发小工具合集 |
-| [屏幕调整助手](https://www.box3.cn/)                                         | 4.7         | 更改屏幕的大小     |
+| Name                                                                         | Version(Chrome/Firefox/Edge)         | Description                  |
+| :--------------------------------------------------------------------------- | :----------------------------------- | :--------------------------- |
+| [AdGuard](https://adguard.com/zh_cn/adguard-browser-extension/overview.html) | 3.5.20                               | 广告拦截器                   |
+| [crxMouse](https://crxmouse.com/zh-hans/)                                    | 4.4.4                                | 鼠标手势                     |
+| [FeHelper](https://www.baidufe.com/fehelper)                                 | 2020.5.2810/2020.03.2510/2020.5.2810 | 前端助手                     |
+| [Ghelper](http://googlehelper.net)                                           | 2.2.1/2.3.8/2.1.0                    | 谷歌上网助手                 |
+| [GiteeTree](https://gitee.com/oschina/GitCodeTree)                           | 2.4.9/2.4.9/2.4.9                    | 基于Octotree的码云文件树插件 |
+| [Octotree](https://www.octotree.io/)                                         | 6.1.8/6.1.8/6.1.5                    | GitHub code tree             |
+| [Postman](https://www.postman.com/downloads/)                                | 5.5.5                                | 网络API测试工具              |
+| [开发工具箱](https://www.box3.cn/)                                           | 2.3.0.5                              | 软件开发小工具合集           |
+| 屏幕调整助手                                                                 | 4.7                                  | 更改屏幕的大小               |
+| 书签侧边栏                                                                   | 1.18.3 rev1                          | 管理所有书签的侧边栏         |
 
 
 
