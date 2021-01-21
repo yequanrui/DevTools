@@ -5,11 +5,10 @@ Development tool set
 
 | Name                                                                      | Version      | Description  |
 | :------------------------------------------------------------------------ | :----------- | :----------- |
-| [Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701)        | 1.4.3141.0   | 命令行工具   |
+| [Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701)        | 1.4.3243.0   | 命令行工具   |
 | [QuickLook](https://www.microsoft.com/store/productId/9NV4BS3L1H4S)       | 3.6.10.0     | 快速预览工具 |
-| [Snipaste](https://www.microsoft.com/store/productId/9P1WXPKB68KX)        | 2.5.40.0     | 截图贴图工具 |
+| [Snipaste](https://www.microsoft.com/store/productId/9P1WXPKB68KX)        | 2.5.60.0     | 截图贴图工具 |
 | [ScreenToGif](https://www.microsoft.com/store/productId/9N3SQK8PDS8G)     | 2.27.3.0     | 动图制作工具 |
-| [Microsoft To Do](https://www.microsoft.com/store/productId/9NBLGGH5R558) | 2.30.33031.0 | 微软待办工具 |
 
 
 
@@ -28,6 +27,5 @@ Development tool set
 | [开发工具箱](https://www.box3.cn/)                                           | 2.3.0.5                              | 软件开发小工具合集           |
 | 屏幕调整助手                                                                 | 4.7                                  | 更改屏幕的大小               |
 | 书签侧边栏                                                                   | 1.18.3 rev1                          | 管理所有书签的侧边栏         |
-
-
-
+| [类似的网站](https://www.similarsites.com/)                                  | 7.1.4.1                              | 发现相关网站                 |
+| QQ空间导出助手                                                               | 1.1.1                                | 导出QQ空间资源               |
