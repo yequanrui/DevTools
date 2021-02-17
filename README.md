@@ -3,12 +3,13 @@ Development tool set
 
 ## Microsoft Store
 
-| Name                                                                      | Version      | Description  |
-| :------------------------------------------------------------------------ | :----------- | :----------- |
-| [Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701)        | 1.4.3243.0   | 命令行工具   |
-| [QuickLook](https://www.microsoft.com/store/productId/9NV4BS3L1H4S)       | 3.6.10.0     | 快速预览工具 |
-| [Snipaste](https://www.microsoft.com/store/productId/9P1WXPKB68KX)        | 2.5.60.0     | 截图贴图工具 |
-| [ScreenToGif](https://www.microsoft.com/store/productId/9N3SQK8PDS8G)     | 2.27.3.0     | 动图制作工具 |
+| Name                                                                  | Version     | Description  |
+| :-------------------------------------------------------------------- | :---------- | :----------- |
+| [Files](https://www.microsoft.com/store/productId/9NGHP3DX8HDX)       | 1.2.2.0     | 命令行工具   |
+| [Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701)    | 1.5.10411.0 | 命令行工具   |
+| [QuickLook](https://www.microsoft.com/store/productId/9NV4BS3L1H4S)   | 3.6.10.0    | 快速预览工具 |
+| [Snipaste](https://www.microsoft.com/store/productId/9P1WXPKB68KX)    | 2.5.60.0    | 截图贴图工具 |
+| [ScreenToGif](https://www.microsoft.com/store/productId/9N3SQK8PDS8G) | 2.27.3.0    | 动图制作工具 |
 
 
 
