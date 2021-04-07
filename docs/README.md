@@ -18,6 +18,7 @@ Development tool set
 | :--------------------------------------------------------------------------- | :----------------------------------- | :--------------------------- |
 | [Aerys](http://#/)                                                           | 1.7.0                                | 窗口标签管理器               |
 | [AdGuard](https://adguard.com/zh_cn/adguard-browser-extension/overview.html) | 3.5.20                               | 广告拦截器                   |
+| [Chrono](https://www.chronodownloader.net/)                                  | 0.11.1                               | 下载管理器                   |
 | [crxMouse](https://crxmouse.com/zh-hans/)                                    | 4.4.4                                | 鼠标手势                     |
 | [FeHelper](https://www.baidufe.com/fehelper)                                 | 2020.5.2810/2020.03.2510/2020.5.2810 | 前端助手                     |
 | [Ghelper](http://googlehelper.net)                                           | 2.2.1/2.3.8/2.1.0                    | 谷歌上网助手                 |
@@ -26,5 +27,4 @@ Development tool set
 | [Postman](https://www.postman.com/downloads/)                                | 5.5.5                                | 网络API测试工具              |
 | [开发工具箱](https://www.box3.cn/)                                           | 2.3.0.5                              | 软件开发小工具合集           |
 | [屏幕调整助手](http://#/)                                                    | 4.7                                  | 更改屏幕的大小               |
-| [书签侧边栏](http://#/)                                                      | 1.18.3 rev1                          | 管理所有书签的侧边栏         |
 | [类似的网站](https://www.similarsites.com/)                                  | 7.1.4.1                              | 发现相关网站                 |
