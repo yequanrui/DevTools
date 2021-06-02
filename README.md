@@ -29,3 +29,17 @@ Development tool set
 | [开发工具箱](https://www.box3.cn/)                                           | 2.3.0.5                              | 软件开发小工具合集           |
 | [屏幕调整助手](http://)                                                      | 4.7                                  | 更改屏幕的大小               |
 | [类似的网站](https://www.similarsites.com/)                                  | 7.1.4.1                              | 发现相关网站                 |
+
+## Browser Settings
+
+### 开启浏览器多线程下载
+
+#### Chrome
+
+地址栏输入并回车：`chrome://flags/#enable-parallel-downloading`
+
+#### Edge(Chromium)
+
+地址栏输入并回车：`edge://flags/#enable-parallel-downloading`
+
+将默认的 `Default` 改成 `Enabled` 即可！然后点击 `Relaunch` 重启浏览器
