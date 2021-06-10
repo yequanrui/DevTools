@@ -2,6 +2,14 @@
 
 Development tool set
 
+## Desktop Application
+
+| Name                                                          | Version        | Description                |
+| :------------------------------------------------------------ | :------------- | :------------------------- |
+| [彩虹工具箱](https://rainbowbyte.com/app/rainbowtoolbox.html) | 2.0.2(Win/Mac) | 集成了大量常用的小工具     |
+| [万彩办公大师](http://www.wofficebox.com/)                    | 3.0.6(Win)     | 办公必备的小工具百宝箱     |
+| [洋芋田图像工具箱](https://imagetoolkit.potatofield.cn/)      | 3.1.3(Win/Mac) | 创意行业从业者的图像工具箱 |
+
 ## Microsoft Store
 
 | Name                                                                       | Version    | Description  |
