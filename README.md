@@ -1,6 +1,6 @@
 # DevTools
 
-Development tool set
+Toolset for Development
 
 ## Desktop Application
 
@@ -20,6 +20,12 @@ Development tool set
 | [Snipaste](https://www.microsoft.com/store/productId/9P1WXPKB68KX)         | 2.5.60.0   | 截图贴图工具 |
 | [ScreenToGif](https://www.microsoft.com/store/productId/9N3SQK8PDS8G)      | 2.29.1.0   | 动图制作工具 |
 
+## VSCode Extension
+
+| Name                                                   | Version | Description                        |
+| :----------------------------------------------------- | :------ | :--------------------------------- |
+| [Postcode](https://github.com/rohinivsenthil/postcode) | 1.3.4   | 创建和测试简单和复杂的`HTTP/s`请求 |
+
 ## Browser Extension
 
 | Name                                                                         | Version(Chrome/Firefox/Edge)         | Description                    |
@@ -30,7 +36,9 @@ Development tool set
 | [crxMouse](https://crxmouse.com/zh-hans/)                                    | 4.4.4                                | 鼠标手势                       |
 | [Enhanced Github](https://varunmalhotra.xyz/enhanced-github/)                | 5.0.11                               | 提供GitHub附加组件的浏览器扩展 |
 | [FeHelper](https://www.baidufe.com/fehelper)                                 | 2020.5.2810/2020.03.2510/2020.5.2810 | Web开发者常用工具集            |
+| [GitZip for github](http://#/)                                               |                                      | 高速下载GitHub项目文件夹       |
 | [Ghelper](https://ghelper.xyz/)                                              | 2.2.1/2.3.8/2.1.0                    | 谷歌上网助手                   |
+| [Chrome Cleaner](http://#/)                                                  | 1.2.11                               | 浏览器缓存清理优化             |
 | [GreenHub](https://github.com/pablocc1979/Green-Hub-Proxy/)                  | 0.9.6                                | 绿墙-网络出海工具              |
 | [GiteeTree](https://gitee.com/oschina/GitCodeTree)                           | 2.4.9/2.4.9/2.4.9                    | 基于Octotree的码云文件树插件   |
 | [Octotree](https://www.octotree.io/)                                         | 6.1.8/6.1.8/6.1.5                    | GitHub Code Tree               |
