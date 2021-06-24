@@ -67,6 +67,7 @@ Toolset for Development
 | [Octotree][Octotree]               | 6.1.8/6.1.8/6.1.5                                 | GitHub Code Tree               |
 | [PhotoShow][PhotoShow]             | 4.6.8.0                                           | 悬浮快速查看网页原图           |
 | [Postman][Postman]                 | 5.5.5                                             | 网络API测试工具                |
+| [SingleFile][SingleFile]           | [1.18.86][SingleFile-Google]                      | 把网页完整保存到本地           |
 | [Sourcegraph][Sourcegraph]         | 21.5.12.144                                       | Web代码搜索浏览工具            |
 | [ToolBox][ToolBox]                 | 3.1.6                                             | 常用工具                       |
 | [开发工具箱](开发工具箱)           | 2.3.0.5                                           | 软件开发小工具合集             |
@@ -86,6 +87,8 @@ Toolset for Development
 [Octotree]: https://www.octotree.io/ '跳转主页'
 [PhotoShow]: https://github.com/Mr-VincentW/PhotoShow '跳转主页'
 [Postman]: https://www.postman.com/downloads/ '跳转主页'
+[SingleFile]: https://github.com/gildas-lormeau/SingleFile '跳转主页'
+[SingleFile-Google]: https://chrome.google.com/webstore/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle '跳转Google Store'
 [Sourcegraph]: https://sourcegraph.com/ '跳转主页'
 [ToolBox]: http://chenapp.com/chrome/developtools '跳转主页'
 [开发工具箱]: https://www.box3.cn/ '跳转主页'
