@@ -51,38 +51,41 @@ Toolset for Development
 
 ## Browser Extension
 
-| Name                               | Version(Chrome/Firefox/Edge)                      | Description                    |
-| :--------------------------------- | :------------------------------------------------ | :----------------------------- |
-| Aerys                              | 1.7.0                                             | 窗口标签管理器                 |
-| [AdGuard][AdGuard]                 | 3.5.20                                            | 广告拦截器                     |
-| [Chrono][Chrono]                   | 0.11.1                                            | 下载管理器                     |
-| [crxMouse][crxMouse]               | 4.4.4                                             | 鼠标手势                       |
-| [Enhanced Github][Enhanced Github] | 5.0.11                                            | 提供GitHub附加组件的浏览器扩展 |
-| [FeHelper][FeHelper]               | 2020.5.2810/2020.03.2510/2020.5.2810              | Web开发者常用工具集            |
-| GitZip for github                  |                                                   | 高速下载GitHub项目文件夹       |
-| [Ghelper][Ghelper]                 | 2.5.5/2.3.8/2.1.0                                 | 谷歌上网助手                   |
-| Chrome Cleaner                     | 1.2.11                                            | 浏览器缓存清理优化             |
-| [GreenHub][GreenHub]               | [0.9.8][GreenHub-Google]/-/[0.9.7][GreenHub-Edge] | 绿墙-网络出海工具              |
-| [GiteeTree][GiteeTree]             | 2.4.9/2.4.9/2.4.9                                 | 基于Octotree的码云文件树插件   |
-| [Octotree][Octotree]               | 6.1.8/6.1.8/6.1.5                                 | GitHub Code Tree               |
-| [PhotoShow][PhotoShow]             | 4.6.8.0                                           | 悬浮快速查看网页原图           |
-| [Postman][Postman]                 | 5.5.5                                             | 网络API测试工具                |
-| [SingleFile][SingleFile]           | [1.18.86][SingleFile-Google]                      | 把网页完整保存到本地           |
-| [Sourcegraph][Sourcegraph]         | 21.5.12.144                                       | Web代码搜索浏览工具            |
-| [ToolBox][ToolBox]                 | 3.1.6                                             | 常用工具                       |
-| [开发工具箱](开发工具箱)           | 2.3.0.5                                           | 软件开发小工具合集             |
-| 屏幕调整助手                       | [4.7][屏幕调整助手-Google]                        | 更改屏幕的大小                 |
-| [类似的网站][类似的网站]           | [7.1.4.3][类似的网站-Google]                      | 发现相关网站                   |
+| Name                               | Version(Chrome/Firefox/Edge)                                               | Description                    |
+| :--------------------------------- | :------------------------------------------------------------------------- | :----------------------------- |
+| Aerys                              | 1.7.0                                                                      | 窗口标签管理器                 |
+| [AdGuard][AdGuard]                 | 3.5.20                                                                     | 广告拦截器                     |
+| [Chrono][Chrono]                   | 0.11.1                                                                     | 下载管理器                     |
+| [crxMouse][crxMouse]               | 4.4.4                                                                      | 鼠标手势                       |
+| [Enhanced Github][Enhanced Github] | 5.0.11                                                                     | 提供GitHub附加组件的浏览器扩展 |
+| [FeHelper][FeHelper]               | [2020.05.2810][FeHelper-Google]/2020.03.2510/[2020.05.2810][FeHelper-Edge] | Web开发者常用工具集            |
+| GitZip for github                  |                                                                            | 高速下载GitHub项目文件夹       |
+| [Ghelper][Ghelper]                 | 2.5.5/2.3.8/2.1.0                                                          | 谷歌上网助手                   |
+| Chrome Cleaner                     | 1.2.11                                                                     | 浏览器缓存清理优化             |
+| [GreenHub][GreenHub]               | [0.9.8][GreenHub-Google]/-/[0.9.7][GreenHub-Edge]                          | 绿墙-网络出海工具              |
+| [GiteeTree][GiteeTree]             | 2.4.9/2.4.9/2.4.9                                                          | 基于Octotree的码云文件树插件   |
+| [Octotree][Octotree]               | 6.1.8/6.1.8/6.1.5                                                          | GitHub Code Tree               |
+| [PhotoShow][PhotoShow]             | 4.6.8.0                                                                    | 悬浮快速查看网页原图           |
+| [Postman][Postman]                 | 5.5.5                                                                      | 网络API测试工具                |
+| [SingleFile][SingleFile]           | [1.18.86][SingleFile-Google]                                               | 把网页完整保存到本地           |
+| [Sourcegraph][Sourcegraph]         | 21.5.12.144                                                                | Web代码搜索浏览工具            |
+| [ToolBox][ToolBox]                 | 3.1.6                                                                      | 常用工具                       |
+| [开发工具箱][开发工具箱]           | 2.3.0.5                                                                    | 软件开发小工具合集             |
+| 屏幕调整助手                       | [4.7][屏幕调整助手-Google]                                                 | 更改屏幕的大小                 |
+| [类似的网站][类似的网站]           | [7.1.4.3][类似的网站-Google]                                               | 发现相关网站                   |
+| [收藏猫][收藏猫]                   | [1.6.3][收藏猫-Google]/-/[1.5.0][收藏猫-Edge]                              | 新标签页，书签管理，插件管理   |
 
 [AdGuard]: https://adguard.com/zh_cn/adguard-browser-extension/overview.html '跳转主页'
 [Chrono]: https://www.chronodownloader.net/ '跳转主页'
 [crxMouse]: https://crxmouse.com/zh-hans/ '跳转主页'
 [Enhanced Github]: https://varunmalhotra.xyz/enhanced-github/ '跳转主页'
 [FeHelper]: https://www.baidufe.com/fehelper '跳转主页'
+[FeHelper-Google]: https://chrome.google.com/webstore/detail/fehelper%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8B/pkgccpejnmalmdinmhkkfafefagiiiad '跳转Google Store'
+[FeHelper-Edge]: https://microsoftedge.microsoft.com/addons/detail/fehelper%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8B/feolnkbgcbjmamimpfcnklggdcbgakhe '跳转Microsoft Store'
 [Ghelper]: https://ghelper.xyz/ '跳转主页'
 [GreenHub]: https://github.com/pablocc1979/Green-Hub-Proxy/ '跳转主页'
 [GreenHub-Google]: https://chrome.google.com/webstore/detail/greenhub%E7%BB%BF%E5%A2%99-%E7%BD%91%E7%BB%9C%E5%87%BA%E6%B5%B7%E5%B7%A5%E5%85%B7/knmhokeiipedacnhpjklbjmfgedfohco '跳转Google Store'
-[GreenHub-Edge]: https://microsoftedge.microsoft.com/addons/detail/greenhub%E7%BB%BF%E5%A2%99%E7%BD%91%E7%BB%9C%E5%87%BA%E6%B5%B7%E5%B7%A5%E5%85%B7/hholdpohidinjmkoanabdchniingdfac?hl=zh-CN '跳转Microsoft Store'
+[GreenHub-Edge]: https://microsoftedge.microsoft.com/addons/detail/greenhub%E7%BB%BF%E5%A2%99%E7%BD%91%E7%BB%9C%E5%87%BA%E6%B5%B7%E5%B7%A5%E5%85%B7/hholdpohidinjmkoanabdchniingdfac '跳转Microsoft Store'
 [GiteeTree]: https://gitee.com/oschina/GitCodeTree '跳转主页'
 [Octotree]: https://www.octotree.io/ '跳转主页'
 [PhotoShow]: https://github.com/Mr-VincentW/PhotoShow '跳转主页'
@@ -95,6 +98,9 @@ Toolset for Development
 [屏幕调整助手-Google]: https://chrome.google.com/webstore/detail/%E5%B1%8F%E5%B9%95%E8%B0%83%E6%95%B4%E5%8A%A9%E6%89%8B/ajgidahckhliegaonfgbialbcpcljach '跳转Google Store'
 [类似的网站]: https://www.similarsites.com/ '跳转主页'
 [类似的网站-Google]: https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn '跳转Google Store'
+[收藏猫]: https://pictureknow.com/ '跳转主页'
+[收藏猫-Google]: https://chrome.google.com/webstore/detail/%E6%94%B6%E8%97%8F%E7%8C%AB/gccbhdjbhnbcliaedclfclgedgndhdlh '跳转Google Store'
+[收藏猫-Edge]: https://microsoftedge.microsoft.com/addons/detail/%E6%94%B6%E8%97%8F%E7%8C%AB/olpeliadpjfmlbnhfdbhkendbagmkblo '跳转Microsoft Store'
 
 ## Browser Settings
 
@@ -138,3 +144,67 @@ Toolset for Development
   1. 地址栏输入并回车`edge://flags/#enable-parallel-downloading`
   2. 将默认的`Default`改成`Enabled`
   3. 点击`Relaunch`重启浏览器
+
+## Npm Settings
+
+### 使用nrm快速切换npm源
+
+> nrm是一个npm源管理工具，使用它可以快速切换npm源
+>
+> 主要可以用于切换npm源为taobao镜像，由于npm是国外的，安装依赖时速度比较慢，可以切换为taobao镜像，安装速度就会比较快，也不会出错
+
+1. 使用`npm install -g nrm`安装工具
+2. 安装完后使用`nrm -V`查看版本
+3. 如果报错：
+
+    ```bash
+    internal/validators.js:124
+        throw new ERR_INVALID_ARG_TYPE(name, 'string', value);
+        ^
+    [TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined
+      at validateString (internal/validators.js:124:11)
+      at Object.join (path.js:375:7)
+      at Object.<anonymous> (C:\Users\yequanrui\AppData\Roaming\npm\node_modules\nrm\cli.js:17:20)
+      at Module._compile (internal/modules/cjs/loader.js:1063:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+      at Module.load (internal/modules/cjs/loader.js:928:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+      at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+      at internal/main/run_main_module.js:17:47
+    ] {
+      code: 'ERR_INVALID_ARG_TYPE'
+    }
+    ```
+
+4. 根据报错信息，找到cli.js文件夹，修改17行，即可解决报错：
+
+    ```bash
+    //const NRMRC = path.join(process.env.HOME, '.nrmrc'); (删除)
+    const NRMRC = path.join(process.env[(process.platform == 'win32') ? 'USERPROFILE' : 'HOME'], '.nrmrc');
+    ```
+
+5. 使用`nrm ls`查看所有源，列表中左侧为名称，右侧为地址，带*的为当前配置
+6. 使用`nrm use [name]`切换源
+7. 这时就可以使用npm安装依赖了
+
+### npm更换成淘宝镜像源以及cnpm
+
+> 这是一个完整`npmjs.org`镜像，你可以用此代替官方版本(只读)，同步频率目前为10分钟一次以保证尽量与官方服务同步。
+
+1. 使用阿里定制的`cnpm`命令行工具代替默认的`npm`
+
+    ```bash
+    npm install -g cnpm --registry=https://registry.npm.taobao.org
+    ```
+
+2. 检测`cnpm`版本信息
+
+    ```bash
+    cnpm -v
+    ```
+
+3. 使用`cnpm`安装依赖
+
+    ```bash
+    cnpm install [name]
+    ```
