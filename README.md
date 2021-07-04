@@ -67,13 +67,14 @@ Toolset for Development
 | [Octotree][Octotree]               | 6.1.8/6.1.8/6.1.5                                                          | GitHub Code Tree               |
 | [PhotoShow][PhotoShow]             | 4.6.8.0                                                                    | 悬浮快速查看网页原图           |
 | [Postman][Postman]                 | 5.5.5                                                                      | 网络API测试工具                |
+| [React Developer Tools][React]     | [4.13.5][React-Google]/-/[4.13.5][React-Edge]                              | React开发工具                  |
 | [SingleFile][SingleFile]           | [1.18.86][SingleFile-Google]                                               | 把网页完整保存到本地           |
 | [Sourcegraph][Sourcegraph]         | 21.5.12.144                                                                | Web代码搜索浏览工具            |
 | [ToolBox][ToolBox]                 | 3.1.6                                                                      | 常用工具                       |
+| [Vue.js devtools][Vue]             | [5.3.4][Vue-Google]                                                        | Vue开发工具                    |  |
 | [开发工具箱][开发工具箱]           | 2.3.0.5                                                                    | 软件开发小工具合集             |
 | 屏幕调整助手                       | [4.7][屏幕调整助手-Google]                                                 | 更改屏幕的大小                 |
 | [类似的网站][类似的网站]           | [7.1.4.3][类似的网站-Google]                                               | 发现相关网站                   |
-| [收藏猫][收藏猫]                   | [1.6.3][收藏猫-Google]/-/[1.5.0][收藏猫-Edge]                              | 新标签页，书签管理，插件管理   |
 
 [AdGuard]: https://adguard.com/zh_cn/adguard-browser-extension/overview.html '跳转主页'
 [Chrono]: https://www.chronodownloader.net/ '跳转主页'
@@ -90,17 +91,19 @@ Toolset for Development
 [Octotree]: https://www.octotree.io/ '跳转主页'
 [PhotoShow]: https://github.com/Mr-VincentW/PhotoShow '跳转主页'
 [Postman]: https://www.postman.com/downloads/ '跳转主页'
+[React]: https://github.com/facebook/react '跳转主页'
+[React-Google]: https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi '跳转Google Store'
+[React-Edge]: https://microsoftedge.microsoft.com/addons/detail/react-developer-tools/gpphkfbcpidddadnkolkpfckpihlkkil '跳转Microsoft Store'
 [SingleFile]: https://github.com/gildas-lormeau/SingleFile '跳转主页'
 [SingleFile-Google]: https://chrome.google.com/webstore/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle '跳转Google Store'
 [Sourcegraph]: https://sourcegraph.com/ '跳转主页'
 [ToolBox]: http://chenapp.com/chrome/developtools '跳转主页'
+[Vue]: https://devtools.vuejs.org/ '跳转主页'
+[Vue-Google]: https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd '跳转Google Store'
 [开发工具箱]: https://www.box3.cn/ '跳转主页'
 [屏幕调整助手-Google]: https://chrome.google.com/webstore/detail/%E5%B1%8F%E5%B9%95%E8%B0%83%E6%95%B4%E5%8A%A9%E6%89%8B/ajgidahckhliegaonfgbialbcpcljach '跳转Google Store'
 [类似的网站]: https://www.similarsites.com/ '跳转主页'
 [类似的网站-Google]: https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn '跳转Google Store'
-[收藏猫]: https://pictureknow.com/ '跳转主页'
-[收藏猫-Google]: https://chrome.google.com/webstore/detail/%E6%94%B6%E8%97%8F%E7%8C%AB/gccbhdjbhnbcliaedclfclgedgndhdlh '跳转Google Store'
-[收藏猫-Edge]: https://microsoftedge.microsoft.com/addons/detail/%E6%94%B6%E8%97%8F%E7%8C%AB/olpeliadpjfmlbnhfdbhkendbagmkblo '跳转Microsoft Store'
 
 ## Browser Settings
 
