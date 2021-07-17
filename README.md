@@ -60,7 +60,7 @@ Toolset for Development
 | [Enhanced Github][Enhanced Github] | 5.0.11                                                                     | 提供GitHub附加组件的浏览器扩展 |
 | [FeHelper][FeHelper]               | [2020.05.2810][FeHelper-Google]/2020.03.2510/[2020.05.2810][FeHelper-Edge] | Web开发者常用工具集            |
 | GitZip for github                  |                                                                            | 高速下载GitHub项目文件夹       |
-| [Ghelper][Ghelper]                 | 2.5.5/2.3.8/2.1.0                                                          | 谷歌上网助手                   |
+| [Ghelper][Ghelper]                 | [2.5.5][Ghelper-Google]/[2.3.8][Ghelper-Firefox]/[2.5.8][Ghelper-Edge]     | 谷歌上网助手                   |
 | Chrome Cleaner                     | 1.2.11                                                                     | 浏览器缓存清理优化             |
 | [GreenHub][GreenHub]               | [0.9.8][GreenHub-Google]/-/[0.9.7][GreenHub-Edge]                          | 绿墙-网络出海工具              |
 | [GiteeTree][GiteeTree]             | 2.4.9/2.4.9/2.4.9                                                          | 基于Octotree的码云文件树插件   |
@@ -68,10 +68,12 @@ Toolset for Development
 | [PhotoShow][PhotoShow]             | 4.6.8.0                                                                    | 悬浮快速查看网页原图           |
 | [Postman][Postman]                 | 5.5.5                                                                      | 网络API测试工具                |
 | [React Developer Tools][React]     | [4.13.5][React-Google]/-/[4.13.5][React-Edge]                              | React开发工具                  |
+| [Ruffle][Ruffle]                   | 0.1.0.166                                                                  | Flash模拟器                    |
 | [SingleFile][SingleFile]           | [1.18.86][SingleFile-Google]                                               | 把网页完整保存到本地           |
 | [Sourcegraph][Sourcegraph]         | 21.5.12.144                                                                | Web代码搜索浏览工具            |
 | [ToolBox][ToolBox]                 | 3.1.6                                                                      | 常用工具                       |
-| [Vue.js devtools][Vue]             | [5.3.4][Vue-Google]                                                        | Vue开发工具                    |  |
+| [Vue.js devtools][Vue]             | [5.3.4][Vue-Google]                                                        | Vue开发工具                    |
+| [Wappalyzer][Wappalyzer]           | [6.7.7][Wappalyzer-Firefox] [6.7.6][Wappalyzer-Edge]                       | 识别网站技术栈                 |
 | [开发工具箱][开发工具箱]           | 2.3.0.5                                                                    | 软件开发小工具合集             |
 | 屏幕调整助手                       | [4.7][屏幕调整助手-Google]                                                 | 更改屏幕的大小                 |
 | [类似的网站][类似的网站]           | [7.1.4.3][类似的网站-Google]                                               | 发现相关网站                   |
@@ -84,6 +86,9 @@ Toolset for Development
 [FeHelper-Google]: https://chrome.google.com/webstore/detail/fehelper%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8B/pkgccpejnmalmdinmhkkfafefagiiiad '跳转Google Store'
 [FeHelper-Edge]: https://microsoftedge.microsoft.com/addons/detail/fehelper%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8B/feolnkbgcbjmamimpfcnklggdcbgakhe '跳转Microsoft Store'
 [Ghelper]: https://ghelper.xyz/ '跳转主页'
+[Ghelper-Google]: https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/cieikaeocafmceoapfogpffaalkncpkc '跳转Google Store'
+[Ghelper-Firefox]: https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B-%E5%AE%98%E7%BD%91%E7%89%88/ '跳转Firefox Add-ons'
+[Ghelper-Edge]: https://microsoftedge.microsoft.com/addons/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/eoboojokdmamahfilfmamjjkcmkmddgk '跳转Microsoft Store'
 [GreenHub]: https://github.com/pablocc1979/Green-Hub-Proxy/ '跳转主页'
 [GreenHub-Google]: https://chrome.google.com/webstore/detail/greenhub%E7%BB%BF%E5%A2%99-%E7%BD%91%E7%BB%9C%E5%87%BA%E6%B5%B7%E5%B7%A5%E5%85%B7/knmhokeiipedacnhpjklbjmfgedfohco '跳转Google Store'
 [GreenHub-Edge]: https://microsoftedge.microsoft.com/addons/detail/greenhub%E7%BB%BF%E5%A2%99%E7%BD%91%E7%BB%9C%E5%87%BA%E6%B5%B7%E5%B7%A5%E5%85%B7/hholdpohidinjmkoanabdchniingdfac '跳转Microsoft Store'
@@ -94,12 +99,17 @@ Toolset for Development
 [React]: https://github.com/facebook/react '跳转主页'
 [React-Google]: https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi '跳转Google Store'
 [React-Edge]: https://microsoftedge.microsoft.com/addons/detail/react-developer-tools/gpphkfbcpidddadnkolkpfckpihlkkil '跳转Microsoft Store'
+[Ruffle]: https://ruffle.rs/ '跳转主页'
 [SingleFile]: https://github.com/gildas-lormeau/SingleFile '跳转主页'
 [SingleFile-Google]: https://chrome.google.com/webstore/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle '跳转Google Store'
 [Sourcegraph]: https://sourcegraph.com/ '跳转主页'
 [ToolBox]: http://chenapp.com/chrome/developtools '跳转主页'
 [Vue]: https://devtools.vuejs.org/ '跳转主页'
 [Vue-Google]: https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd '跳转Google Store'
+[Wappalyzer]: https://www.wappalyzer.com/ '跳转主页'
+[Wappalyzer-Chrome]: https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg '跳转Google Store'
+[Wappalyzer-Firefox]: https://addons.mozilla.org/zh-CN/firefox/addon/wappalyzer/ '跳转Firefox Add-ons'
+[Wappalyzer-Edge]: https://microsoftedge.microsoft.com/addons/detail/wappalyzer/mnbndgmknlpdjdnjfmfcdjoegcckoikn '跳转Microsoft Store'
 [开发工具箱]: https://www.box3.cn/ '跳转主页'
 [屏幕调整助手-Google]: https://chrome.google.com/webstore/detail/%E5%B1%8F%E5%B9%95%E8%B0%83%E6%95%B4%E5%8A%A9%E6%89%8B/ajgidahckhliegaonfgbialbcpcljach '跳转Google Store'
 [类似的网站]: https://www.similarsites.com/ '跳转主页'
